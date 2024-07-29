@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/21 - Dungeon.ogg-5a5e9484eb37de5affe9f4d5dd390205.oggstr"
+
+[deps]
+
+source_file="res://res/Ninja Adventure - Asset Pack/Musics/21 - Dungeon.ogg"
+dest_files=[ "res://.import/21 - Dungeon.ogg-5a5e9484eb37de5affe9f4d5dd390205.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

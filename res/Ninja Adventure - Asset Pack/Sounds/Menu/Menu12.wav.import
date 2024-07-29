@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Menu12.wav-4256d9202238305f2cccd43858e7916a.sample"
+
+[deps]
+
+source_file="res://res/Ninja Adventure - Asset Pack/Sounds/Menu/Menu12.wav"
+dest_files=[ "res://.import/Menu12.wav-4256d9202238305f2cccd43858e7916a.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

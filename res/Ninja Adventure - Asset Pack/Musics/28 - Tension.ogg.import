@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/28 - Tension.ogg-0315a5da901846cf2d1ccf74b3c765ab.oggstr"
+
+[deps]
+
+source_file="res://res/Ninja Adventure - Asset Pack/Musics/28 - Tension.ogg"
+dest_files=[ "res://.import/28 - Tension.ogg-0315a5da901846cf2d1ccf74b3c765ab.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

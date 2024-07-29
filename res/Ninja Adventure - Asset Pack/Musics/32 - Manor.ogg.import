@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/32 - Manor.ogg-bce8f6d3a60bc77dbf54461130ef6cbb.oggstr"
+
+[deps]
+
+source_file="res://res/Ninja Adventure - Asset Pack/Musics/32 - Manor.ogg"
+dest_files=[ "res://.import/32 - Manor.ogg-bce8f6d3a60bc77dbf54461130ef6cbb.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

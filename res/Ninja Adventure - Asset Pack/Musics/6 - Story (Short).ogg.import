@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/6 - Story (Short).ogg-f877c86dc2a7ea755c03ccac55508552.oggstr"
+
+[deps]
+
+source_file="res://res/Ninja Adventure - Asset Pack/Musics/6 - Story (Short).ogg"
+dest_files=[ "res://.import/6 - Story (Short).ogg-f877c86dc2a7ea755c03ccac55508552.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

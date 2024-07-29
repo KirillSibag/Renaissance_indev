@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/14 - Curse.ogg-c9490078209cf83e49d355e967ee53fd.oggstr"
+
+[deps]
+
+source_file="res://res/Ninja Adventure - Asset Pack/Musics/14 - Curse.ogg"
+dest_files=[ "res://.import/14 - Curse.ogg-c9490078209cf83e49d355e967ee53fd.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

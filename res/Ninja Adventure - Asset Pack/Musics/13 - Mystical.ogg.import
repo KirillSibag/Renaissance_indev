@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/13 - Mystical.ogg-059fbb430f38672e1d02824cccad4fb1.oggstr"
+
+[deps]
+
+source_file="res://res/Ninja Adventure - Asset Pack/Musics/13 - Mystical.ogg"
+dest_files=[ "res://.import/13 - Mystical.ogg-059fbb430f38672e1d02824cccad4fb1.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
